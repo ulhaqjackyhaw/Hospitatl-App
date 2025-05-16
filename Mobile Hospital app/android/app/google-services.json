@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1057753587696",
+    "firebase_url": "https://iot2-affcc-default-rtdb.firebaseio.com",
+    "project_id": "iot2-affcc",
+    "storage_bucket": "iot2-affcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057753587696:android:fd7f645c4cb902e8b28735",
+        "android_client_info": {
+          "package_name": "com.example.perawat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AZx-PTkraCU9Nl3nW4c5ZHl_GfZrymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057753587696:android:cf4ac6a89bdb8992b28735",
+        "android_client_info": {
+          "package_name": "com.example.rsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AZx-PTkraCU9Nl3nW4c5ZHl_GfZrymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
